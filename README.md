@@ -36,8 +36,33 @@ Hunted:
   T&S: Lethal traps
   
   Tips: Advantage here should come from trickery, stealth and the element 
-  of suprise. Collecting materials to gain an advantage while under 
+  of suprise. Try walking in streams to hide your tracks. Swimming washes away your scent for a while. Collecting materials to gain an advantage while under 
   threat of being caught is key to success.
   
 Starting the game:
   The prey must be given a head start, but that doesn't mean you have to wait around for them to finish. At the start of the game, the hunted will choose a random path on a map from a list of 3 options: fastest speed for maximum distance from the starting point, medium speed puts less distance between predator and prey, but collects some resources on the way, the last option takes time to leave misleading tracks or double back around to surprise the hunter when they aren't ready. All tracks start from the same point. This choice is not made known to the hunter and both parties are brought into the game. The hunter is brought in at the start of the path, and the hunted is brought in where the path they chose left off.
+
+
+Meta-Stuff:
+  Dogs bark when excited.
+  hunting deer can yield bait to lure dogs into traps
+  Health abstract and hidden from players. 
+  In general, 
+  players: 2 hp
+  dogs/deer: 2hp*
+  Damage:
+  Rifle: 2
+  Deadly trap: 2
+  pistol: 1
+  trap: 1
+  dog attack: 1
+
+  multipliers:
+  Head-shot: x2
+  Body-shot: x1
+  limb-shot: x.5**
+
+  At 1hp or lower, player is injured. Injured status reduces speed and makes left tracks more noticeable.
+
+*take x2 from traps
+**After 1 min of no more damage, .5 rounds up to nearest 1 to "heal"
